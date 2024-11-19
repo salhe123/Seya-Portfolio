@@ -7,7 +7,7 @@
       Hello!
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
-      I'm Salhe, I work as a Full Stack  Developer, product engineer and designer from
+      I'm Salhe, I work as a Full Stack  Developer, product engineer and designer from 
       Addis Ababa, Ethiopia. I specialize in building web applications and sites
       using Javascript, React, Vue &amp; Node. I've procrastinated building this
       website for years but finally it's here, I've carved out my own little
